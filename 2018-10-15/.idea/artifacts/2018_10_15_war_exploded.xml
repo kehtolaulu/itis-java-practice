@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="2018-10-15:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/2018_10_15_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="2018-10-15/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="2018-10-15" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="json-20180813" />
+          <element id="library" level="project" name="freemarker" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
